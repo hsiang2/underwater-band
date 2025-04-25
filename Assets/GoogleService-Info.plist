@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344373179711-l23i0r1t46qui6afh6qldbkek2o4nlh5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344373179711-l23i0r1t46qui6afh6qldbkek2o4nlh5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC7x3bJH4sI7m-x5JzFnbKzbhYWYIftYW0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344373179711</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hsiang.underwaterband</string>
+	<key>PROJECT_ID</key>
+	<string>underwater-band</string>
+	<key>STORAGE_BUCKET</key>
+	<string>underwater-band.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344373179711:ios:e656544e9cb1ee31058f8a</string>
+	<key>DATABASE_URL</key>
+	<string>https://underwater-band-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
